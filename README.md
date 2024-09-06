@@ -9,5 +9,6 @@ Y88b. .d88P 888  888 888 d88P 888 Y88..88P Y88b.    888 "88b 888   "   888 888  
 
 Unblock your favorite video game websites, get dark mode on sites if your pc cant do dark mode, and install extensions! basically just an installer guide for a vivaldi user profile.
 
-NOTE: You need to be able to run scripts to use this, if you can't run scripts copy the file contents and go to File > New then paste into the top box. finally press "F5" or the green start arrow at the top.
+NOTE: You need to be able to run scripts to use this, if you can't run scripts, you can work around this by copying the file contents and go to File > New then paste into the top box. finally press "F5" or the green start arrow at the top.
+if ABSOLUTELY NECESSARY you can paste the script contents into your powershell then press enter, it will show errors but otherwise still be usable.
 ![image](https://github.com/user-attachments/assets/a33b6967-311c-4652-aaf4-c94c4bf3481f)
